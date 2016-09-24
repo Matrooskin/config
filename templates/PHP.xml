@@ -1,0 +1,9 @@
+<templateSet group="PHP">
+  <template name="buff" value="buffered_$NAME$:&#10;    type: buffer&#10;    level: debug&#10;    handler: $NAME$&#10;    buffer_size: 100&#10;    channels: [$NAME$]$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="false" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

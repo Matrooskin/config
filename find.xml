@@ -1,0 +1,29 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '.../src/Vrt/BackOffice/InfoBundle/PartnerImport/InfoCollector.php - [import]'" />
+    <option name="defaultScopeName" value="File '.../src/Vrt/BackOffice/InfoBundle/PartnerImport/InfoCollector.php - [import]'" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
+    <option name="SEARCH_SCOPE" value="File '.../src/Vrt/BackOffice/InfoBundle/PartnerImport/InfoCollector.php - [import]'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*task_manager*.yml</mask>
+      <mask>services.yml</mask>
+      <mask>Controller/*.php</mask>
+      <mask>*Controller/*.php</mask>
+      <mask>*.xsl</mask>
+      <mask>*.yml</mask>
+      <mask>*.php</mask>
+    </recentFileMasks>
+  </component>
+</application>

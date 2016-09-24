@@ -1,0 +1,25 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8a56c6b4-d6fb-427c-98d3-6da2362f9eb2" name="Mantis" url="http://172.18.1.141">
+        <fileTransfer host="172.18.1.141" port="22" rootFolder="/var/www/mantisbt-1.2.1" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a9ad7c91-8a66-4255-82b0-3c63ba5c5117" name="LIVE.backoffice" url="http://backoffice.hometogo.de">
+        <fileTransfer host="backoffice.hometogo.de" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/www.hometogo.de" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAA4MCzJx1Pk4MrAz82vUoIGGuK+XNJCFGjYPFfPKm7OK/CeCkrzN10DNlgDuCYVDhUCjKgIXXyqFqxayTdIJn/Vmz+juQEAnysLaEbV5IJQ91+21XlBETu6GYzGldWdKLmEmAFBQdddcHYII2v3cTN7RU8pUfTjHr1HWaegW0nCu7ghYCtdHVG7HaqoP+vpTHH9fhkuNCT6UB/1HTlIJ6VlOSKmxVCKTEZsn/vj78+NJK5LMZEHZvlRep5SosPQbE/F3RW8DGMkEdrZZtkHpdApxI4uH7jBQyqF8ijZu5aYy7iwQbKD81mh/fSG0j+8aCjWw==</data>
+  </component>
+</application>
